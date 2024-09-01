@@ -1,1 +1,6 @@
+# Folders
 node_modules/
+
+# Extensions
+*.env
+*.pdf
